@@ -13,7 +13,9 @@ Following are default credentials, By using them you can regester new users from
 
 
 # Abstract  
-      This report describes an online quiz, named Class Base Quiz System (CBQS) for students. Any university, colleges and schools with computerized education system can adopt this system. Teacher can manage quizzes using the Class Base Quiz System. The distinct feature in our system is that the teacher can generate quiz on real time and the result will be show after ending the quiz. Students will be provided limited time slots to solve the quiz after that quiz will be finished automatically. Results of the quizzes will be shared with the students on their accounts.This system has a question bank .Question bank is used to keep the record of previous question papers.
+This report describes an online quiz, named Class Base Quiz System (CBQS) for students. Any university, colleges and schools with computerized education system can adopt this system. Teacher can manage quizzes using the Class Base Quiz System. 
+The distinct feature in our system is that the teacher can generate quiz on real time and the result will be show after ending the quiz. Students will be provided limited time slots to solve the quiz after that quiz will be finished automatically. 
+Results of the quizzes will be shared with the students on their accounts.This system has a question bank .Question bank is used to keep the record of previous question papers.
 
 
 # What is Included In This Project
@@ -22,7 +24,7 @@ Following are default credentials, By using them you can regester new users from
 
 
 # HowTo
-      This Project includes all the files and is in working condition. Just Download the project save it in htdocs folder if you are using XAMPP or in www folder if you are using WAMP. Then import database file in PHPMyAdmin and thats all.
+This Project includes all the files and is in working condition. Just Download the project save it in htdocs folder if you are using XAMPP or in www folder if you are using WAMP. Then import database file in PHPMyAdmin and thats all.
 
 
 
